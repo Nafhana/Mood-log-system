@@ -1,8 +1,11 @@
 # Mood Log System
 
-*IoT | ESP32 | HTTPS | Favoriot*
+A simple IoT-based tool for logging and tracking emotions to help users understand their emotional patterns.
 
-A simple IoT-based tool for logging and tracking emotions over time to help users understand their emotional patterns.
+## Tech Stacks
+- IoT
+- ESP32
+- Favoriot HTTPS 
 
 ## Features
 - Users input their current mood and intensity level.  
