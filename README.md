@@ -1,4 +1,4 @@
-# Mood Log System
+# Mood Log System (June 2025)
 
 A simple IoT-based tool for logging and tracking emotions to help users understand their emotional patterns.
 
